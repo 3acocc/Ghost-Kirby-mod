@@ -1,4 +1,4 @@
-# 👻 Ghost Kirby Entity Mod
+# 👻 Ghost Kirby-allay Entity Mod
 
 so I found [this picture on Pinterest](https://ru.pinterest.com/pin/59391288833757215/) and decided to add him into minecraft
 
