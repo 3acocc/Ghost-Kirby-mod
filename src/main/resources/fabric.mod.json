@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "ghostkirby",
+	"version": "${version}",
+	"name": "Ghost Kirby",
+	"description": "spOwOky UwUky and fully interactive custom kirby-allay entity for minecraft!",
+	"authors": [
+		"3ACOwOC"
+	],
+	"contact": {
+		"sources": "https://github.com/3acocc/Ghost-Kirby-Mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/ghostkirby/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.zacowoc.ghostkirby.GhostKirbyMain"
+		],
+		"client": [
+			"com.zacowoc.ghostkirby.GhostKirbyClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.2",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
